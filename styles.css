@@ -2,5 +2,9 @@ img {
     max-width: 50%;
     height: auto;
     width: auto\9; /* ie8 */
-    border:10px solid #161a1d;
+}
+
+.ImageBorder {
+    border-width: 10px;
+    border-color: #161a1d;
 }
