@@ -2,4 +2,6 @@ img {
     max-width: 50%;
     height: auto;
     width: auto\9; /* ie8 */
+    boarder: 10px solid #000000;
+    float: right;
 }
